@@ -1,7 +1,7 @@
-"""
-Script used to export column-organized data in csv files to contingency
+"
+Script used to export column-organized data of csv files to frequency
 tables in Excel.
-"""
+"
 
 library(xlsx)            # to export to Excel
 # oldOpt <- options()      # backup of default options 
